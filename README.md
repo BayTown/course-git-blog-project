@@ -25,3 +25,5 @@ With the help of:
 * Colt
 * James
 * Julia
+
+# Thats is a wonderful sidebar
